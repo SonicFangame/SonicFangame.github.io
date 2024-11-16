@@ -1,1 +1,2 @@
-# H1 [SonicFangame]
+# SonicFangame
+## This is a test website!
