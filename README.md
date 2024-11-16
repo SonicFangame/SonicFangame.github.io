@@ -1,1 +1,1 @@
-# H1 SonicFangame
+# H1 [SonicFangame]
